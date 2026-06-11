@@ -12,7 +12,7 @@ tracking actual payments against agreed financial responsibility splits.
 - Term 2 and Term 3 were the highest spending periods
 - Significant variance identified between actual payments and agreed 
   responsibility splits — one party overpaid by $16,629.68
-
+ 
 ## Analysis Includes
 - Total spend per child across all four school terms
 - Term-by-term spending trends
